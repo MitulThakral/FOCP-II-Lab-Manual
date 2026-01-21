@@ -11,14 +11,14 @@ int main()
     {
         cout<<"enter temp in fahrenheit"<<endl;
         cin>>f;
-        conversion=(f-32)*5/9;
+        conversion=(f-32)*(5/9);
         cout<<"converted temp "<<conversion<<endl;
     }
     else if(choice==2)
     {
         cout<<"enter temp in fahrenheit"<<endl;
         cin>>c;
-        conversion=(c * 9 / 5) + 32;
+        conversion=(c * (9 / 5)) + 32;
         cout<<"converted temp "<<conversion<<endl;
     }
     return 0;
