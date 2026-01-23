@@ -20,7 +20,7 @@ int main()
         cout<<"roots are"<<r1;
     }
     else{
-        cout<<"roots sre not equal";
+        cout<<"roots are not equal";
     }
     return 0;
 }
