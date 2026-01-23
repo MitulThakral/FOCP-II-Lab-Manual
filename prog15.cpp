@@ -27,6 +27,7 @@ int main()
         break;
         case 3:
         cout<<"result of multipliaction is "<<a*b<<endl;
+        break;
         case 4:
         if(b!=0)
         
