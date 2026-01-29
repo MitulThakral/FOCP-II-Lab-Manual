@@ -25,7 +25,7 @@ int main()
         for(j=0;j<3;j++)
 {
     sum[i][j]=a[i][j]+b[i][j];
-    cout<<sum[i][j];
+    cout<<sum[i][j] <<" ";
 }
 cout<<endl;
 }
