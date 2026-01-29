@@ -12,6 +12,6 @@ int main()
             count++;
         }
     }
-    cout<<"number is "<<count<<endl;
+    cout<<"number that are divisible by both is "<<count<<endl;
     return 0;
 }
