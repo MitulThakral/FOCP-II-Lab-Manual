@@ -18,6 +18,7 @@ int ncr(int n,int r)
 int main()
 {
     int n,r;
+    cout<<"enter n and r";
     cin>>n>>r;
     int ans =ncr(n,r);
     cout<<"factorial is"<<ans<<endl;
