@@ -26,6 +26,6 @@ int main()
             min=arr[i];
         }
     }
-    cout<<"max number in array is "<<min<<" "<<max<<endl;
+    cout<<"min and max number in array is "<<min<<" "<<max<<endl;
     return 0;
 }
