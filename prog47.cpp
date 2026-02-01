@@ -12,5 +12,5 @@ int main()
     cout<<"enter the number";
     cin>>n;
     int result=ap(n);
-    cout<<"ap of nmuber is"<<result<<endl;
+    cout<<"ap of number is "<<result<<endl;
 }
