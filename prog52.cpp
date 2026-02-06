@@ -14,6 +14,6 @@ int main()
     {
         ans=ans^arr[i];
     }
-    cout<<"unique elemnt in the array" <<ans<<endl;
+    cout<<"unique elemnt in the array "<<ans<<endl;
     return 0;
 }
