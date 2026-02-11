@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int i,temp,j;
-    int arr[5];
+    int arr[5]; 
     cout<<"enter the numbers";
     for(i=0;i<5;i++)
     {
