@@ -5,7 +5,7 @@ class Animal
     public:
     void eat()
     {
-        cout<<"animal food is ready";
+        cout<<"animal food is ready"<<endl;
     }
 };
 class Dog:public Animal
