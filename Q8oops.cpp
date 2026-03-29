@@ -30,7 +30,7 @@ class Designer:public Employee
     {
         cout<<"name of the designer is "<<name<<endl;
         cout<<"salary of thedesigner is "<<salary<<endl;
-    }
+    }                                                               
 };
 int main()
 {
