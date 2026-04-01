@@ -18,7 +18,7 @@ bool sorted(int arr[],int size)
 }
 int main()
 {
-    int arr[5]={2,4,11,8,9};
+    int arr[5]={2,4,17,8,9};
     int size=5;
     bool ans=sorted(arr,size);
     cout<<ans<<endl;
