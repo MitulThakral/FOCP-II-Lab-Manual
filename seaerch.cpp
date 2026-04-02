@@ -1,18 +1,18 @@
 #include<iostream>
 using namespace std;
-bool search(int arr[],int size,int key)
+bool search(int arr[],int size,int target)
 {
     //base case
     if(size==0)
     {
         return false;
     }
-    if(arr[0]==key)
+    if(arr[0]==target)
     {
         return true;
     }
     else{
-        bool remainingpart=search(arr+1,size-1,key);
+        bool remainingpart=search(arr+1,size-1,target);
         return remainingpart;
     }
 }
